@@ -1,0 +1,47 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.proyecto {
+    border: 1px solid black;
+    border-radius: 3%;
+    margin: 2%;
+    max-width: 40vw;
+}
+
+.proyecto a {
+    color: orange;
+    font-weight: 500;
+}
+
+.proyecto a:link {
+    color: orange;
+}
+
+.proyecto a:visited {
+    color: orange;
+}
+
+.proyecto a:hover {
+    color: blue;
+}
+
+.proyecto a:active {
+    color: red
+}
+
+.proyecto li {
+    list-style-type: none;
+    margin: 5% 0;
+}
+
+.proyecto img {
+    max-width: 250px;
+    display: block;
+    margin: 0 auto;
+}
