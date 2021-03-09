@@ -16,7 +16,7 @@ main {
     border: 3px solid #C0B7B1;
     border-radius: 3%;
     margin: 2%;
-    width: 30vw;
+    width: 85vw;
 }
 
 .proyecto a {
@@ -45,4 +45,13 @@ main {
     max-width: 250px;
     display: block;
     margin: 0 auto;
+}
+
+@media (min-width:768px) {
+    .proyecto {
+        border: 3px solid #C0B7B1;
+        border-radius: 3%;
+        margin: 2%;
+        width: 30vw;
+    }
 }
