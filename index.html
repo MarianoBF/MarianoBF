@@ -4,18 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GitHub Mariano Fernández</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./styles/styles.css">
+    <link href="#" rel="icon" type="image/x-icon" />
 </head>
 <body>
 
-    <h1>Algunos proyectos desarrollados</h1>
+    <h1 id="main_title"></h1>
 
 <main>
 
     <div class="proyecto">
         <ul>   
             <li><a href="http://marianobf.github.io/pomodoro/">Pomodoro</a></li> 
-            <li>Pomodoro, una implementación de un timer de sesiones de trabajo con pausas.</li>
+            <li id="pomodoro_desc"></li>
             <li>ReactJS <i class="fab fa-react"></i></li>
             <li><img src="./images/pomodoro.png"></li>
         </ul>
@@ -24,7 +25,7 @@
     <div class="proyecto">
         <ul>   
             <li><a href="http://marianobf.github.io/markup/">Markup</a></li> 
-            <li>Markup, un visualizador de texto editado con markup.</li>
+            <li id="markup_desc"></li>
             <li>ReactJS <i class="fab fa-react"></i></li>
             <li><img src="./images/markup.png"></li>
         </ul>
@@ -33,8 +34,8 @@
     <div class="proyecto">
         <ul>   
             <li><a href="http://marianobf.github.io/proyecto2/">Gifos</a></li> 
-            <li>Un buscador de gif con la posibilidad de crear y subir uno propio.</li>
-            <li>JS puro <i class="fab fa-js-square"></i></li>
+            <li id="gifos_desc"></li>
+            <li>Vanilla JS <i class="fab fa-js-square"></i></li>
             <li><img src="./images/gifos.png"></li>
         </ul>
     </div>
@@ -42,7 +43,7 @@
     <div class="proyecto">
         <ul>   
             <li><a href="http://marianobf.github.io/calculadora/">Calculadora</a></li> 
-            <li>Una calculadora sencilla.</li>
+            <li id="calculator_desc"></li>
             <li>ReactJS <i class="fab fa-react"></i></li>
             <li><img src="./images/calculadora.png"></li>
         </ul>
@@ -52,7 +53,7 @@
     <div class="proyecto">
         <ul>   
             <li><a href="http://marianobf.github.io/bateria/">Batería</a></li> 
-            <li>Una batería de sonidos con control vía mouse y teclado.</li>
+            <li id="drum_desc"></li>
             <li>ReactJS <i class="fab fa-react"></i></li>
             <li><img src="./images/bateria.png"></li>
         </ul>
@@ -61,6 +62,12 @@
 </main>
 
 <script src="https://kit.fontawesome.com/dae06802c3.js" crossorigin="anonymous"></script>
+<script src="scripts/strings.js"></script>
+<script src="scripts/index.js"></script>
     
+<noscript>
+Por favor habilite Javascript para este sitio - Please enable Javascript
+</noscript>
+
 </body>
 </html>
