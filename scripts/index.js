@@ -31,16 +31,13 @@ function languageSwitcher() {
 
   classesToChange = Object.keys(language_class_strings);
   valuesToChange = Object.values(language_class_strings);
-  console.log(classesToChange, valuesToChange)
-
 
   for (let cTC = 0; cTC < classesToChange.length; cTC++) {
     let elementsToChange = document.getElementsByClassName(
-      classesToChange[cTC]);
-      console.log(classesToChange, cTC)
+      classesToChange[cTC]
+    );
     for (let eTC = 0; eTC < elementsToChange.length; eTC++) {
       elementsToChange[eTC].innerText = valuesToChange[cTC];
-      console.log(eTC, cTC, elementsToChange, valuesToChange)
     }
   }
 }
