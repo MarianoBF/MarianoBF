@@ -36,6 +36,7 @@ main {
 
 .proyecto ul li a {
   font-weight: bold;
+  font-size: 1rem;
 }
 
 .proyecto a:link {
@@ -48,6 +49,11 @@ main {
 
 .proyecto a:hover {
   color: #c0b7b1;
+}
+
+.proyecto ul li .code {
+  font-weight: normal;
+  font-size: 0.9rem;
 }
 
 .proyecto li {
