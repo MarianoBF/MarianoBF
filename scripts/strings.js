@@ -13,8 +13,9 @@ const ES_STRINGS = {
   drum_desc: "Una batería de sonidos con control vía mouse y teclado.",
   calc_name: "Demo Calculadora",
   calc_desc: "Una calculadora sencilla.",
-  presupFront_name: "Presupuestador Front (código)",
-  presupBack_name: "Presupuestador Back (código)",
+  presupFront_name: "Presupuestaré Front",
+  presupBack_name: "Presupuestaré Back",
+  presupBack_docs: "Docs de la API",
   presup_desc:
     "Una herramienta para registrar gastos y gestionarlos con categorías",
 };
@@ -32,8 +33,9 @@ const EN_STRINGS = {
   drum_desc: "A drum machine with mouse and keyboard controls",
   calc_name: "Calculator Demo",
   calc_desc: "A simple calculator",
-  presupFront_name: "Budget Front (code)",
-  presupBack_name: "Budget Back (code)",
+  presupFront_name: "Presupuestaré Front",
+  presupBack_name: "Presupuestaré Back",
+  presupBack_docs: "API Docs",
   presup_desc: "A tool for registering and managing expenses",
 };
 
