@@ -10,7 +10,7 @@ const ES_STRINGS = {
   gifos_desc:
     "Un buscador de gif con la posibilidad de crear y subir uno propio.",
   drum_name: "Demo Bateria",
-  drum_desc: "Una batería de sonidos con control vía mouse y teclado.",
+  drum_desc: "Una batería con control vía mouse y teclado.",
   calc_name: "Demo Calculadora",
   calc_desc: "Una calculadora sencilla.",
   presupFront_name: "Presupuestaré Front",
@@ -28,7 +28,7 @@ const EN_STRINGS = {
   markup_name: "Markup Demo",
   markup_desc: "An editor for real-time viewing of markup editing.",
   gifos_name: "Gifos Demo",
-  gifos_desc: "Gif searcher creator with upload to Giphy",
+  gifos_desc: "Gif searcher with the ability to create and upload your own one to Giphy.",
   drum_name: "Drums Demo",
   drum_desc: "A drum machine with mouse and keyboard controls",
   calc_name: "Calculator Demo",
