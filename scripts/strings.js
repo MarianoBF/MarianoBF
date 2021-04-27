@@ -18,6 +18,11 @@ const ES_STRINGS = {
   presupBack_docs: "Docs de la API",
   presup_desc:
     "Una herramienta para registrar gastos y gestionarlos con categorías",
+  delilah_name: "Delilah Pedidos(código)",
+  delilah_desc: "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT",
+  tarjeteroFront_name: "Tarjetero Front (código)",
+  tarjeteroBack_name: "Tarjetero Back (código)",
+  tarjetero_desc: "Tarjetero, un sistema para registrar contactos",
 };
 
 const EN_STRINGS = {
@@ -37,6 +42,11 @@ const EN_STRINGS = {
   presupBack_name: "Presupuestaré Back",
   presupBack_docs: "API Docs",
   presup_desc: "A tool for registering and managing expenses",
+  delilah_name: "Delilah Orders (code)",
+  delilah_desc: "A CRUD API for orders, users and products, with JWT authentication",
+  tarjeteroFront_name: "Tarjetero Front (code)",
+  tarjeteroBack_name: "Tarjetero Back (code)",
+  tarjetero_desc: "Tarjetero, a contact manager",
 };
 
 const ES_CLASS_STRINGS = {
