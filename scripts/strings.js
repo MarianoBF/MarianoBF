@@ -20,8 +20,9 @@ const ES_STRINGS = {
     "Una herramienta para registrar gastos y gestionarlos con categorías",
   delilah_name: "Delilah Pedidos(código)",
   delilah_desc: "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT",
-  tarjeteroFront_name: "Tarjetero Front (código)",
-  tarjeteroBack_name: "Tarjetero Back (código)",
+  tarjeteroFront_name: "Tarjetero Front",
+  tarjeteroBack_name: "Tarjetero Back",
+  tarjeteroBack_docs: "Docs de la API",
   tarjetero_desc: "Tarjetero, un sistema para registrar contactos",
 };
 
@@ -44,8 +45,9 @@ const EN_STRINGS = {
   presup_desc: "A tool for registering and managing expenses",
   delilah_name: "Delilah Orders (code)",
   delilah_desc: "A CRUD API for orders, users and products, with JWT authentication",
-  tarjeteroFront_name: "Tarjetero Front (code)",
-  tarjeteroBack_name: "Tarjetero Back (code)",
+  tarjeteroFront_name: "Tarjetero Front",
+  tarjeteroBack_name: "Tarjetero Back",
+  tarjeteroBack_docs: "API Docs",
   tarjetero_desc: "Tarjetero, a contact manager",
 };
 
