@@ -11,16 +11,16 @@ const ES_STRINGS = {
     "Un buscador de gif con la posibilidad de crear y subir uno propio.",
   drum_name: "Demo Bateria",
   drum_desc: "Una batería con control vía mouse y teclado.",
-  presupFront_name: "Presupuestaré Front",
-  presupBack_name: "Presupuestaré Back",
-  presupBack_docs: "Docs de la API",
+  presupFront_name: "Demo Presupuestaré Front",
+  presupBack_name: "Demo Presupuestaré Back",
+  presupBack_docs: "\n Docs de la API",
   presup_desc:
     "Una herramienta para registrar gastos y gestionarlos con categorías",
   delilah_name: "Delilah Pedidos(código)",
   delilah_desc: "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT",
-  tarjeteroFront_name: "Tarjetero Front",
-  tarjeteroBack_name: "Tarjetero Back",
-  tarjeteroBack_docs: "Docs de la API",
+  tarjeteroFront_name: "Demo Tarjetero Front",
+  tarjeteroBack_name: "Demo Tarjetero Back",
+  tarjeteroBack_docs: "\n Docs de la API",
   tarjetero_desc: "Tarjetero, un sistema para registrar contactos",
 };
 
@@ -35,21 +35,21 @@ const EN_STRINGS = {
   gifos_desc: "Gif searcher with the ability to create and upload your own one to Giphy.",
   drum_name: "Drums Demo",
   drum_desc: "A drum machine with mouse and keyboard controls",
-  presupFront_name: "Presupuestaré Front",
-  presupBack_name: "Presupuestaré Back",
-  presupBack_docs: "API Docs",
+  presupFront_name: "Presupuestaré Front Demo",
+  presupBack_name: "Presupuestaré Back Demo",
+  presupBack_docs: "\n API Docs",
   presup_desc: "A tool for registering and managing expenses",
   delilah_name: "Delilah Orders (code)",
   delilah_desc: "A CRUD API for orders, users and products, with JWT authentication",
-  tarjeteroFront_name: "Tarjetero Front",
-  tarjeteroBack_name: "Tarjetero Back",
-  tarjeteroBack_docs: "API Docs",
+  tarjeteroFront_name: "Tarjetero Front Demo",
+  tarjeteroBack_name: "Tarjetero Back Demo",
+  tarjeteroBack_docs: "\n API Docs",
   tarjetero_desc: "Tarjetero, a contact manager",
 };
 
 const ES_CLASS_STRINGS = {
-  code: " (código)",
+  code: "\n (código)",
 };
 const EN_CLASS_STRINGS = {
-  code: " (code)",
+  code: "\n (code)",
 };
