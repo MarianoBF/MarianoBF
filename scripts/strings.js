@@ -19,11 +19,14 @@ const ES_STRINGS = {
   presup_desc:
     "Una herramienta para registrar gastos y gestionarlos con categorías",
   delilah_name: "Delilah Pedidos(código)",
-  delilah_desc: "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT",
+  delilah_desc:
+    "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT",
   tarjeteroFront_name: "Demo Tarjetero Front",
   tarjeteroBack_name: "Demo Tarjetero Back",
   tarjeteroBack_docs: "\n Docs de la API",
   tarjetero_desc: "Tarjetero, un sistema para registrar contactos",
+  users_name: "Demo API Reqres.in",
+  users_desc: "ABM de un listado de la API con AntDesign",
 };
 
 const EN_STRINGS = {
@@ -36,7 +39,8 @@ const EN_STRINGS = {
   cartas_name: "Cartas Demo",
   cartas_desc: "A 3-round card game",
   gifos_name: "Gifos Demo",
-  gifos_desc: "Gif searcher with the ability to create and upload your own one to Giphy.",
+  gifos_desc:
+    "Gif searcher with the ability to create and upload your own one to Giphy.",
   drum_name: "Drums Demo",
   drum_desc: "A drum machine with mouse and keyboard controls",
   presupFront_name: "Presupuestaré Front Demo",
@@ -44,11 +48,14 @@ const EN_STRINGS = {
   presupBack_docs: "\n API Docs",
   presup_desc: "A tool for registering and managing expenses",
   delilah_name: "Delilah Orders (code)",
-  delilah_desc: "A CRUD API for orders, users and products, with JWT authentication",
+  delilah_desc:
+    "A CRUD API for orders, users and products, with JWT authentication",
   tarjeteroFront_name: "Tarjetero Front Demo",
   tarjeteroBack_name: "Tarjetero Back Demo",
   tarjeteroBack_docs: "\n API Docs",
   tarjetero_desc: "Tarjetero, a contact manager",
+  users_name: "Reqres.in API Demo",
+  users_desc: "CRUD for ReqRes API with AntDesign",
 };
 
 const ES_CLASS_STRINGS = {
