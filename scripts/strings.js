@@ -28,6 +28,8 @@ const ES_STRINGS = {
   tarjeteroBack_name: "Demo Tarjetero Back",
   tarjeteroBack_docs: "\n Docs de la API",
   tarjetero_desc: "Tarjetero, un sistema para registrar contactos",
+  compras_name: "Demo Compras Z",
+  compras_desc: "Un sitio de compras que persiste carrito y autentica vía Firebase",
   users_name: "Demo API Reqres.in",
   users_desc: "ABM de un listado de la API con AntDesign",
 };
@@ -59,6 +61,8 @@ const EN_STRINGS = {
   tarjeteroBack_name: "Tarjetero Back Demo",
   tarjeteroBack_docs: "\n API Docs",
   tarjetero_desc: "Tarjetero, a contact manager",
+  compras_name: "Shopping Z Demo",
+  compras_desc: "Shopping web with cart persistence and Firebase authentication",
   users_name: "Reqres.in API Demo",
   users_desc: "CRUD for ReqRes API with AntDesign",
 };
