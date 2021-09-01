@@ -8,6 +8,8 @@ const ES_STRINGS = {
   markup_desc: "Markup, un visualizador de texto editado con markup.",
   cartas_name: "Demo Cartas",
   cartas_desc: "Un juego de cartas a 3 rondas",
+  dospa_name: "Demo Dospa",
+  dospa_desc: "Un juego de cartas al estilo del Uno",
   countries_name: "Demo Países",
   countries_desc:
     "Lista países desde una API y devuelve datos del clima desde una segunda API.",
@@ -43,6 +45,8 @@ const EN_STRINGS = {
   markup_desc: "An editor for real-time viewing of markup editing.",
   cartas_name: "Cartas Demo",
   cartas_desc: "A 3-round card game",
+  dospa_name: "Dospa Demo",
+  dospa_desc: "A Uno-like card game",
   countries_name: "Countries Demo",
   countries_desc: "Lists countries from API and shows weather data from a second API",
   gifos_name: "Gifos Demo",
