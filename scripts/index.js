@@ -26,7 +26,7 @@ function languageSwitcher() {
 
   for (let i = 0; i < description_locations.length; i++) {
     document.getElementById(description_locations[i]).innerText =
-      description_strings[i];
+    description_strings[i];
   }
 
   classesToChange = Object.keys(language_class_strings);

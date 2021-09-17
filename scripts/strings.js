@@ -23,7 +23,9 @@ const ES_STRINGS = {
   presupBack_docs: "\n Docs de la API",
   presup_desc:
     "Una herramienta para registrar gastos y gestionarlos con categorías",
-  pedidos_name: "Pedidos(código)",
+  pedidosFront_name: "Demo Pedidos Front",
+  pedidosBack_name: "Demo Pedidos Back",
+  pedidosBack_docs: "Docs de la API",
   pedidos_desc:
     "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT",
   tarjeteroFront_name: "Demo Tarjetero Front",
@@ -58,9 +60,11 @@ const EN_STRINGS = {
   presupBack_name: "Presupuestaré Back Demo",
   presupBack_docs: "\n API Docs",
   presup_desc: "A tool for registering and managing expenses",
-  pedidos_name: "Orders (code)",
+  pedidosFront_name: "Pedidos Front Demo",
+  pedidosBack_name: "Pedidos Back Demo",
   pedidos_desc:
     "A CRUD API for orders, users and products, with JWT authentication",
+  pedidosBack_docs: "Docs de la API",
   tarjeteroFront_name: "Tarjetero Front Demo",
   tarjeteroBack_name: "Tarjetero Back Demo",
   tarjeteroBack_docs: "\n API Docs",
