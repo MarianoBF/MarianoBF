@@ -23,7 +23,7 @@ const ES_STRINGS = {
     "Una herramienta para registrar gastos y gestionarlos con categorías",
   pedidosFront_name: "Demo Pedidos Front",
   pedidosBack_name: "Demo Pedidos Back",
-  pedidosBack_docs: "Docs de la API",
+  pedidosBack_docs: "\n Docs de la API",
   pedidos_desc:
     "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT",
   tarjeteroFront_name: "Demo Tarjetero Front",
@@ -60,7 +60,7 @@ const EN_STRINGS = {
   pedidosBack_name: "Pedidos Back Demo",
   pedidos_desc:
     "A CRUD API for orders, users and products, with JWT authentication",
-  pedidosBack_docs: "Docs de la API",
+  pedidosBack_docs: "\n API Docs",
   tarjeteroFront_name: "Tarjetero Front Demo",
   tarjeteroBack_name: "Tarjetero Back Demo",
   tarjeteroBack_docs: "\n API Docs",
