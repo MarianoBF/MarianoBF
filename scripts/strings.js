@@ -6,10 +6,6 @@ const ES_STRINGS = {
   pomodoro_name: "Demo Pomodoro",
   pomodoro_desc:
     "Pomodoro, una implementación de un timer de sesiones de trabajo con pausas.",
-  markup_name: "Demo Markup",
-  markup_desc: "Markup, un visualizador de texto editado con markup.",
-  cartas_name: "Demo Cartas",
-  cartas_desc: "Un juego de cartas a 3 rondas",
   dospa_name: "Demo Dospa",
   dospa_desc: "Un juego de cartas al estilo del Uno",
   countries_name: "Demo Países",
@@ -37,7 +33,7 @@ const ES_STRINGS = {
   compras_name: "Demo Compras Z",
   compras_desc: "Un sitio de compras que persiste carrito, envía confirmación vía email, autentica vía Firebase y lo usa para persistir datos.",
   users_name: "Demo API Reqres.in",
-  users_desc: "ABM de un listado de la API con AntDesign",
+  users_desc: "ABM de un listado de la API con AntDesign, persiste modificaciones en local storage",
 };
 
 const EN_STRINGS = {
@@ -47,10 +43,6 @@ const EN_STRINGS = {
   lang_switch: "Haz clic aquí para cambiar a español",
   pomodoro_name: "Pomodoro Timer Demo",
   pomodoro_desc: "A pomodoro timer with breaks and work sessions",
-  markup_name: "Markup Demo",
-  markup_desc: "An editor for real-time viewing of markup editing.",
-  cartas_name: "Cartas Demo",
-  cartas_desc: "A 3-round card game",
   dospa_name: "Dospa Demo",
   dospa_desc: "A Uno-like card game",
   countries_name: "Countries Demo",
@@ -76,7 +68,7 @@ const EN_STRINGS = {
   compras_name: "Shopping Z Demo",
   compras_desc: "Shopping web with cart persistence, email confirmation and Firebase authentication & data storage",
   users_name: "Reqres.in API Demo",
-  users_desc: "CRUD for ReqRes API with AntDesign",
+  users_desc: "CRUD for ReqRes API with AntDesign, persists changes in local storage",
 };
 
 const ES_CLASS_STRINGS = {

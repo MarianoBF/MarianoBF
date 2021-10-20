@@ -86,17 +86,34 @@ footer {
   font-size: 9px;
 }
 
+hr {
+  margin: 20px 0;
+}
+
 @media (min-width: 768px) {
   .proyecto {
-    margin: 2vw;
+    margin: 1.5vw;
     width: 40vw;
   }
 
   @media (min-width: 1440px) {
   .proyecto {
-    margin: 2vw;
+    margin: 1.5vw;
     width: 20vw;
   }
+
+  header {
+    display: flex;
+    align-items: center;
+  }
+
+  #lang_switch {
+    width: fit-content;
+    padding: 3px 20px;
+    margin: 0;
+    margin-right: 20px;
+  }
+
 }
 
 }
