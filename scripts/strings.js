@@ -1,5 +1,7 @@
 const ES_STRINGS = {
   main_title: "Algunos proyectos desarrollados:",
+  full_stack_title: "Proyectos FullStack",
+  front_end_title: "Proyectos Front-End",
   lang_switch: "Click here to switch to English",
   pomodoro_name: "Demo Pomodoro",
   pomodoro_desc:
@@ -33,13 +35,15 @@ const ES_STRINGS = {
   tarjeteroBack_docs: "\n Docs de la API",
   tarjetero_desc: "Tarjetero, un sistema para registrar contactos",
   compras_name: "Demo Compras Z",
-  compras_desc: "Un sitio de compras que persiste carrito y autentica vía Firebase",
+  compras_desc: "Un sitio de compras que persiste carrito, envía confirmación vía email y autentica vía Firebase",
   users_name: "Demo API Reqres.in",
   users_desc: "ABM de un listado de la API con AntDesign",
 };
 
 const EN_STRINGS = {
   main_title: "A few sample projects:",
+  full_stack_title: "FullStack Projects",
+  front_end_title: "Front-End Projects",
   lang_switch: "Haz clic aquí para cambiar a español",
   pomodoro_name: "Pomodoro Timer Demo",
   pomodoro_desc: "A pomodoro timer with breaks and work sessions",
@@ -70,7 +74,7 @@ const EN_STRINGS = {
   tarjeteroBack_docs: "\n API Docs",
   tarjetero_desc: "Tarjetero, a contact manager",
   compras_name: "Shopping Z Demo",
-  compras_desc: "Shopping web with cart persistence and Firebase authentication",
+  compras_desc: "Shopping web with cart persistence, email confirmation and Firebase authentication",
   users_name: "Reqres.in API Demo",
   users_desc: "CRUD for ReqRes API with AntDesign",
 };
