@@ -43,21 +43,27 @@ function languageSwitcher() {
 }
 
 // Modal
-
-let modal = document.getElementById("modal");
-let imagesToZoom = document.getElementsByClassName("projectImage");
+const body = document.getElementsByTagName("body")[0]
+console.log("body", body)
+const modal = document.getElementById("modal");
+const imagesToZoom = document.getElementsByClassName("projectImage");
 for (let image of imagesToZoom) {
 image.addEventListener("click", () => {
-  modal.classList.add("openModal");
+  openModal();
 })
 }
+let modalClosebtn = document.getElementById("modalClose");
+modalClosebtn.addEventListener("click", () => {
+  closeModal();
+});
 
 function openModal() {
-  let closeModal = document.getElementById("modalClose");
 
   modal.classList.add("openModal");
+  body.style.overflow = "hidden";
+}
 
-  closeModal.addEventListener("click", () => {
-      modal.classList.remove("openModal");
-  });
+function closeModal() {
+  modal.classList.remove("openModal");
+  body.style.overflow = "auto";
 }
