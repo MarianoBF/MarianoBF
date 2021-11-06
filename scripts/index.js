@@ -42,10 +42,15 @@ function languageSwitcher() {
   }
 }
 
+// Modal
+
 let modal = document.getElementById("modal");
-modal.addEventListener("click", () => {
+let imagesToZoom = document.getElementsByClassName("projectImage");
+for (let image of imagesToZoom) {
+image.addEventListener("click", () => {
   modal.classList.add("openModal");
 })
+}
 
 function openModal() {
   let closeModal = document.getElementById("modalClose");
