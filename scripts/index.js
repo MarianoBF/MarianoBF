@@ -41,3 +41,18 @@ function languageSwitcher() {
     }
   }
 }
+
+let modal = document.getElementById("modal");
+modal.addEventListener("click", () => {
+  modal.classList.add("openModal");
+})
+
+function openModal() {
+  let closeModal = document.getElementById("modalClose");
+
+  modal.classList.add("openModal");
+
+  closeModal.addEventListener("click", () => {
+      modal.classList.remove("openModal");
+  });
+}
