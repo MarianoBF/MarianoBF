@@ -1,7 +1,7 @@
 const ES_STRINGS = {
-  main_title: "Algunos proyectos desarrollados:",
-  full_stack_title: "Proyectos FullStack",
-  front_end_title: "Proyectos Front-End",
+  main_title: "Algunos proyectos desarrollados",
+  full_stack_title: "Proyectos Fullstack",
+  front_end_title: "Proyectos Frontend",
   lang_switch: "Click here to switch to English",
   pomodoro_name: "Demo Pomodoro",
   pomodoro_desc:
@@ -37,9 +37,9 @@ const ES_STRINGS = {
 };
 
 const EN_STRINGS = {
-  main_title: "A few sample projects:",
-  full_stack_title: "FullStack Projects",
-  front_end_title: "Front-End Projects",
+  main_title: "A few sample projects",
+  full_stack_title: "Fullstack Projects",
+  front_end_title: "Frontend Projects",
   lang_switch: "Haz clic aquí para cambiar a español",
   pomodoro_name: "Pomodoro Timer Demo",
   pomodoro_desc: "A pomodoro timer with breaks and work sessions",

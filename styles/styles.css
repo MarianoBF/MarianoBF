@@ -26,7 +26,9 @@ h1 {
 }
 
 h2 {
-  margin: 20px 5%;
+  text-align: center;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 .category-container {
@@ -106,6 +108,16 @@ hr {
   header {
     display: flex;
     align-items: center;
+    justify-content: space-between;
+    background: #c0b7b1;
+    position: sticky;
+    width: 100%;
+  }
+
+  h1 {
+    text-align: left;
+    margin: 0;
+    margin-left: 20px;
   }
 
   #lang_switch {
@@ -113,6 +125,12 @@ hr {
     padding: 3px 20px;
     margin: 0;
     margin-right: 20px;
+  }
+
+  h2 {
+    text-align: left;
+    margin: 20px 5%;
+    border: none;
   }
 
 }
