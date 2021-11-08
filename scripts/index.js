@@ -58,6 +58,12 @@ modalClosebtn.addEventListener("click", () => {
   closeModal();
 });
 
+body.addEventListener("keyup", (e) => {
+  if (e.key === 'Escape') {
+    closeModal();
+  }
+})
+
 function openModal(image) {
   modalTitle.innerText = image.parentElement.parentElement.firstElementChild.firstElementChild.innerText
   modalImage.src = image.src
