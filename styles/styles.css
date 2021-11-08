@@ -135,6 +135,11 @@ hr {
   overflow-y: hidden;
 }
 
+.modalHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
 .openModal {
   visibility: visible;
   opacity: 1;

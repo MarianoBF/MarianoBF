@@ -44,12 +44,13 @@ function languageSwitcher() {
 
 // Modal
 const body = document.getElementsByTagName("body")[0]
-console.log("body", body)
 const modal = document.getElementById("modal");
+const modalTitle = document.getElementById("modalTitle");
 const imagesToZoom = document.getElementsByClassName("projectImage");
 for (let image of imagesToZoom) {
 image.addEventListener("click", () => {
-  openModal();
+  openModal(image.parentElement.parentElement.firstElementChild.firstElementChild.innerText);
+  console.log(image)
 })
 }
 let modalClosebtn = document.getElementById("modalClose");
@@ -57,8 +58,8 @@ modalClosebtn.addEventListener("click", () => {
   closeModal();
 });
 
-function openModal() {
-
+function openModal(title) {
+  modalTitle.innerText = title
   modal.classList.add("openModal");
   body.style.overflow = "hidden";
 }
