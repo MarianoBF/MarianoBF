@@ -18,22 +18,20 @@ const ES_STRINGS = {
   gifos_name: "Demo Gifos",
   gifos_desc:
     "Un buscador de gif con la posibilidad de crear y subir uno propio.",
-  pedidosFront_name: "Demo Pedidos Front",
-  pedidosBack_name: "Demo Pedidos Back",
-  pedidosBack_docs: "\n Docs de la API",
+  pedidos_name: "Pedidos",
+  pedidosBack_docs: " Docs de la API",
   pedidos_desc:
     "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT",
   pomodoro_name: "Demo Pomodoro",
   pomodoro_desc:
     "Pomodoro, una implementación de un timer de sesiones de trabajo con pausas.",
-  presupFront_name: "Demo Presupuestaré Front",
-  presupBack_name: "Demo Presupuestaré Back",
-  presupBack_docs: "\n Docs de la API",
+  presup_name: "Presupuestaré",
+  presupBack_docs: " Docs de la API",
   presup_desc:
     "Una herramienta para registrar gastos y gestionarlos con categorías",
   tarjeteroFront_name: "Demo Tarjetero Front",
   tarjeteroBack_name: "Demo Tarjetero Back",
-  tarjeteroBack_docs: "\n Docs de la API",
+  tarjeteroBack_docs: " Docs de la API",
   tarjetero_desc: "Tarjetero, un sistema para registrar contactos",
   users_name: "Demo API Reqres.in",
   users_desc:
@@ -60,20 +58,18 @@ const EN_STRINGS = {
   gifos_name: "Gifos Demo",
   gifos_desc:
     "Gif searcher with the ability to create and upload your own one to Giphy.",
-  pedidosFront_name: "Pedidos Front Demo",
-  pedidosBack_name: "Pedidos Back Demo",
+  pedidos_name: "Pedidos",
   pedidos_desc:
     "A CRUD API for orders, users and products, with JWT authentication",
-  pedidosBack_docs: "\n API Docs",
+  pedidosBack_docs: " API Docs",
   pomodoro_name: "Pomodoro Timer Demo",
   pomodoro_desc: "A pomodoro timer with breaks and work sessions",
-  presupFront_name: "Presupuestaré Front Demo",
-  presupBack_name: "Presupuestaré Back Demo",
-  presupBack_docs: "\n API Docs",
+  presup_name: "Presupuestaré",
+  presupBack_docs: " API Docs",
   presup_desc: "A tool for registering and managing expenses",
   tarjeteroFront_name: "Tarjetero Front Demo",
   tarjeteroBack_name: "Tarjetero Back Demo",
-  tarjeteroBack_docs: "\n API Docs",
+  tarjeteroBack_docs: "API Docs",
   tarjetero_desc: "Tarjetero, a contact manager",
   users_name: "Reqres.in API Demo",
   users_desc:
@@ -81,8 +77,8 @@ const EN_STRINGS = {
 };
 
 const ES_CLASS_STRINGS = {
-  code: "\n (código)",
+  code: " código",
 };
 const EN_CLASS_STRINGS = {
-  code: "\n (code)",
+  code: " code",
 };
