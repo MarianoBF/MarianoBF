@@ -14,7 +14,7 @@ const ES_STRINGS = {
   countries_desc:
     "Lista países desde una API y devuelve datos del clima desde una segunda API.",
   dospa_name: "Dospa",
-  dospa_desc: "Un juego de cartas al estilo del Uno",
+  dospa_desc: "Un juego de cartas al estilo del Uno con algunas reglas extra.",
   drum_name: "Bateria",
   drum_desc: "Una batería con control vía mouse y teclado.",
   gifos_name: "Gifos",
@@ -30,10 +30,10 @@ const ES_STRINGS = {
   presup_name: "Presupuestaré",
   presupBack_docs: " Docs de la API",
   presup_desc:
-    "Una herramienta para registrar gastos y gestionarlos con categorías",
+    "Una herramienta para registrar egresos e ingresos, permite gestionarlos con categorías y asignar un presupuesto para cada una.",
   tarjetero_name: "Tarjetero Front",
   tarjeteroBack_docs: " Docs de la API",
-  tarjetero_desc: "Tarjetero, un sistema para registrar contactos",
+  tarjetero_desc: "Tarjetero, un sistema para registrar contactos cargando también organizaciones y ciudades",
   users_name: " API Reqres.in",
   users_desc:
     "ABM de un listado de la API con AntDesign, persiste modificaciones en local storage",
@@ -55,7 +55,7 @@ const EN_STRINGS = {
   countries_desc:
     "Lists countries from API and shows weather data from a second API",
   dospa_name: "Dospa",
-  dospa_desc: "A Uno-like card game",
+  dospa_desc: "A Uno-like card game with a few extra rules.",
   drum_name: "Drums",
   drum_desc: "A drum machine with mouse and keyboard controls",
   gifos_name: "Gifos",
@@ -69,10 +69,10 @@ const EN_STRINGS = {
   pomodoro_desc: "A pomodoro timer with breaks and work sessions",
   presup_name: "Presupuestaré",
   presupBack_docs: " API Docs",
-  presup_desc: "A tool for registering and managing expenses",
+  presup_desc: "A tool for registering incomes & expenses, with categories and a budget for each category.",
   tarjetero_name: "Tarjetero",
   tarjeteroBack_docs: "API Docs",
-  tarjetero_desc: "Tarjetero, a contact manager",
+  tarjetero_desc: "Tarjetero, a contact manager with location and organization info.",
   users_name: "Reqres.in API",
   users_desc:
     "CRUD for ReqRes API with AntDesign, persists changes in local storage",
