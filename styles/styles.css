@@ -68,7 +68,7 @@ h2 {
   color: #c0b7b1;
 }
 
-.proyecto ul li .code {
+.proyecto ul li .code, .clarification {
   font-weight: normal;
   font-size: 0.9rem;
 }

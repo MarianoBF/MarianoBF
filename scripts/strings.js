@@ -7,7 +7,7 @@ const ES_STRINGS = {
   cartas_desc: "Un juego de cartas a 3 rondas, con tests en Cypress",
   compras_name: "Demo Compras Z",
   compras_desc:
-    "Un sitio de compras que persiste carrito, envía confirmación vía email, autentica vía Firebase y lo usa para persistir datos.",
+    "Un sitio de compras que persiste carrito en local storage, envía confirmación vía email, autentica y guarda datos en Firebase. Versión principal con Context y rearmado en Redux.",
   countries_name: "Demo Países",
   countries_desc:
     "Lista países desde una API y devuelve datos del clima desde una segunda API.",
@@ -49,7 +49,7 @@ const EN_STRINGS = {
   cartas_desc: "A 3-round card game with tests in Cypress",
   compras_name: "Shopping Z Demo",
   compras_desc:
-    "Shopping web with cart persistence, email confirmation and Firebase authentication & data storage",
+    "Shopping web with cart persistence, email confirmation and Firebase authentication & data storage. Main version using Context and redone with Redux.",
   countries_name: "Countries Demo",
   countries_desc:
     "Lists countries from API and shows weather data from a second API",
