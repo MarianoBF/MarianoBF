@@ -20,6 +20,8 @@ const ES_STRINGS = {
   gifos_name: "Gifos",
   gifos_desc:
     "Un buscador de gif con la posibilidad de crear y subir uno propio.",
+  llamados_name: "Llamados",
+  llamados_desc: "Un generador de llamados con opciones para definir el modelo.",
   pedidos_name: "Pedidos",
   pedidosBack_docs: " Docs de la API",
   pedidos_desc:
@@ -61,6 +63,8 @@ const EN_STRINGS = {
   gifos_name: "Gifos",
   gifos_desc:
     "Gif searcher with the ability to create and upload your own one to Giphy.",
+  llamados_name: "Llamados",
+  llamados_desc: "A phone call generator with configurable inputs.",
   pedidos_name: "Pedidos",
   pedidos_desc:
     "A CRUD API for orders, users and products, with JWT authentication",
