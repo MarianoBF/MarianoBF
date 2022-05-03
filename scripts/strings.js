@@ -26,9 +26,6 @@ const ES_STRINGS = {
   pedidosBack_docs: " Docs de la API",
   pedidos_desc:
     "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT",
-  pomodoro_name: "Pomodoro",
-  pomodoro_desc:
-    "Pomodoro, una implementación de un timer de sesiones de trabajo con pausas.",
   presup_name: "Presupuestaré",
   presupBack_docs: " Docs de la API",
   presup_desc:
@@ -69,8 +66,6 @@ const EN_STRINGS = {
   pedidos_desc:
     "A CRUD API for orders, users and products, with JWT authentication",
   pedidosBack_docs: " API Docs",
-  pomodoro_name: "Pomodoro Timer",
-  pomodoro_desc: "A pomodoro timer with breaks and work sessions",
   presup_name: "Presupuestaré",
   presupBack_docs: " API Docs",
   presup_desc: "A tool for registering incomes & expenses, with categories and a budget for each category.",
