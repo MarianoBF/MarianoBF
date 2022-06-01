@@ -25,7 +25,7 @@ const ES_STRINGS = {
   pedidos_name: "Pedidos",
   pedidosBack_docs: " Docs de la API",
   pedidos_desc:
-    "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT",
+    "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT.\n Estructurada con dos módulos, de cliente y administrador, con carga diferida (lazy) según necesidad",
   presup_name: "Presupuestaré",
   presupBack_docs: " Docs de la API",
   presup_desc:
@@ -64,7 +64,7 @@ const EN_STRINGS = {
   llamados_desc: "A phone call generator with configurable inputs.",
   pedidos_name: "Pedidos",
   pedidos_desc:
-    "A CRUD API for orders, users and products, with JWT authentication",
+    "A CRUD API for orders, users and products, with JWT authentication. Divided into two lazy loaded modules (admin & client)",
   pedidosBack_docs: " API Docs",
   presup_name: "Presupuestaré",
   presupBack_docs: " API Docs",
