@@ -16,7 +16,7 @@ const ES_STRINGS = {
   dospa_name: "Dospa",
   dospa_desc: "Un juego de cartas al estilo del Uno con algunas reglas extra.",
   drum_name: "Bateria",
-  drum_desc: "Una batería con control vía mouse y teclado.",
+  drum_desc: "Una batería con control vía mouse y teclado. Con componentes de clase.",
   gifos_name: "Gifos",
   gifos_desc:
     "Un buscador de gif con la posibilidad de crear y subir uno propio.",
@@ -35,7 +35,7 @@ const ES_STRINGS = {
   tarjetero_desc: "Tarjetero, un sistema para registrar contactos cargando también organizaciones y ciudades",
   users_name: " API Reqres.in",
   users_desc:
-    "ABM de un listado de la API con AntDesign, persiste modificaciones en local storage",
+    "ABM de un listado de la API con AntDesign, persiste modificaciones en local storage. Con componentes de función.",
 };
 
 const EN_STRINGS = {
@@ -56,7 +56,7 @@ const EN_STRINGS = {
   dospa_name: "Dospa",
   dospa_desc: "A Uno-like card game with a few extra rules.",
   drum_name: "Drums",
-  drum_desc: "A drum machine with mouse and keyboard controls",
+  drum_desc: "A drum machine with mouse and keyboard controls. With class components. ",
   gifos_name: "Gifos",
   gifos_desc:
     "Gif searcher with the ability to create and upload your own one to Giphy.",
@@ -71,10 +71,10 @@ const EN_STRINGS = {
   presup_desc: "A tool for registering incomes & expenses, with categories and a budget for each category.",
   tarjetero_name: "Tarjetero",
   tarjeteroBack_docs: "API Docs",
-  tarjetero_desc: "Tarjetero, a contact manager with location and organization info.",
+  tarjetero_desc: "Tarjetero, a contact manager with location and organization info. With ",
   users_name: "Reqres.in API",
   users_desc:
-    "CRUD for ReqRes API with AntDesign, persists changes in local storage",
+    "CRUD for ReqRes API with AntDesign, persists changes in local storage. With function components.",
 };
 
 const ES_CLASS_STRINGS = {
