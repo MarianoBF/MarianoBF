@@ -30,9 +30,6 @@ const ES_STRINGS = {
   presupBack_docs: " Docs de la API",
   presup_desc:
     "Una herramienta para registrar egresos e ingresos, permite gestionarlos con categorías y asignar un presupuesto para cada una.",
-  tarjetero_name: "Tarjetero Front",
-  tarjeteroBack_docs: " Docs de la API",
-  tarjetero_desc: "Tarjetero, un sistema para registrar contactos cargando también organizaciones y ciudades",
   users_name: " API Reqres.in",
   users_desc:
     "ABM de un listado de la API con AntDesign, persiste modificaciones en local storage. Con componentes de función.",
@@ -69,9 +66,6 @@ const EN_STRINGS = {
   presup_name: "Presupuestaré",
   presupBack_docs: " API Docs",
   presup_desc: "A tool for registering incomes & expenses, with categories and a budget for each category.",
-  tarjetero_name: "Tarjetero",
-  tarjeteroBack_docs: "API Docs",
-  tarjetero_desc: "Tarjetero, a contact manager with location and organization info. With ",
   users_name: "Reqres.in API",
   users_desc:
     "CRUD for ReqRes API with AntDesign, persists changes in local storage. With function components.",
