@@ -16,16 +16,18 @@ const ES_STRINGS = {
   dospa_name: "Dospa",
   dospa_desc: "Un juego de cartas al estilo del Uno con algunas reglas extra.",
   drum_name: "Bateria",
-  drum_desc: "Una batería con control vía mouse y teclado. Con componentes de clase.",
+  drum_desc:
+    "Una batería con control vía mouse y teclado. Con componentes de clase.",
   gifos_name: "Gifos",
   gifos_desc:
     "Un buscador de gif con la posibilidad de crear y subir uno propio.",
   llamados_name: "Llamados",
-  llamados_desc: "Un generador de llamados con opciones para definir el modelo.",
+  llamados_desc:
+    "Un generador de llamados con opciones para definir el modelo.",
   pedidos_name: "Pedidos",
   pedidosBack_docs: " Docs de la API",
   pedidos_desc:
-    "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT.\n Estructurada con dos módulos, de cliente y administrador, con carga diferida (lazy) según necesidad",
+    "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT inyectada con un interceptador. Estructurada con dos módulos, de cliente y administrador, con carga diferida (lazy) según necesidad",
   presup_name: "Presupuestaré",
   presupBack_docs: " Docs de la API",
   presup_desc:
@@ -53,7 +55,8 @@ const EN_STRINGS = {
   dospa_name: "Dospa",
   dospa_desc: "A Uno-like card game with a few extra rules.",
   drum_name: "Drums",
-  drum_desc: "A drum machine with mouse and keyboard controls. With class components. ",
+  drum_desc:
+    "A drum machine with mouse and keyboard controls. With class components. ",
   gifos_name: "Gifos",
   gifos_desc:
     "Gif searcher with the ability to create and upload your own one to Giphy.",
@@ -61,11 +64,12 @@ const EN_STRINGS = {
   llamados_desc: "A phone call generator with configurable inputs.",
   pedidos_name: "Pedidos",
   pedidos_desc:
-    "A CRUD API for orders, users and products, with JWT authentication. Divided into two lazy loaded modules (admin & client)",
+    "A CRUD API for orders, users and products, with JWT authentication injected with an interceptor. Divided into two lazy loaded modules (admin & client)",
   pedidosBack_docs: " API Docs",
   presup_name: "Presupuestaré",
   presupBack_docs: " API Docs",
-  presup_desc: "A tool for registering incomes & expenses, with categories and a budget for each category.",
+  presup_desc:
+    "A tool for registering incomes & expenses, with categories and a budget for each category.",
   users_name: "Reqres.in API",
   users_desc:
     "CRUD for ReqRes API with AntDesign, persists changes in local storage. With function components.",
