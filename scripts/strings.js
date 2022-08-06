@@ -9,7 +9,7 @@ const ES_STRINGS = {
   compras_code_context: "código versión Context",
   compras_code_redux: "código versión Redux",
   compras_desc:
-    "Un sitio de compras que persiste carrito en local storage, envía confirmación vía email, autentica y guarda datos en Firebase. Versión principal con Context y rearmado en Redux.",
+    "Un sitio de compras que persiste carrito en local storage (ofuscado), envía confirmación vía email, autentica y guarda datos en Firebase. Versión principal con Context y rearmado en Redux.",
   countries_name: "Países",
   countries_desc:
     "Lista países desde una API y devuelve datos del clima desde una segunda API.",
@@ -27,7 +27,7 @@ const ES_STRINGS = {
   pedidos_name: "Pedidos",
   pedidosBack_docs: " Docs de la API",
   pedidos_desc:
-    "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT inyectada con un interceptador. Estructurada con dos módulos, de cliente y administrador, con carga diferida (lazy) según necesidad",
+    "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT inyectada con un interceptador persistida en el local storage ofuscado. Estructurada con dos módulos, de cliente y administrador, con carga diferida (lazy) según necesidad",
   presup_name: "Presupuestaré",
   presupBack_docs: " Docs de la API",
   presup_desc:
@@ -48,7 +48,7 @@ const EN_STRINGS = {
   compras_code_context: "code for Context version",
   compras_code_redux: "códe for Redux version",
   compras_desc:
-    "Shopping web with cart persistence, email confirmation and Firebase authentication & data storage. Main version using Context and redone with Redux.",
+    "Shopping web with cart persistence in local storage (obfuscated), email confirmation and Firebase authentication & data storage. Main version using Context and redone with Redux.",
   countries_name: "Countries",
   countries_desc:
     "Lists countries from API and shows weather data from a second API",
@@ -64,7 +64,7 @@ const EN_STRINGS = {
   llamados_desc: "A phone call generator with configurable inputs.",
   pedidos_name: "Pedidos",
   pedidos_desc:
-    "A CRUD API for orders, users and products, with JWT authentication injected with an interceptor. Divided into two lazy loaded modules (admin & client)",
+    "A CRUD API for orders, users and products, with JWT authentication injected with an interceptor persisted (obfuscated) in local storage. Divided into two lazy loaded modules (admin & client)",
   pedidosBack_docs: " API Docs",
   presup_name: "Presupuestaré",
   presupBack_docs: " API Docs",
