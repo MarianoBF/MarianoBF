@@ -25,11 +25,9 @@ const ES_STRINGS = {
   llamados_desc:
     "Un generador de llamados con opciones para definir el modelo.",
   pedidos_name: "Pedidos",
-  pedidosBack_docs: " Docs de la API",
   pedidos_desc:
     "Una API para ABM de pedidos, productos y usuarios, con autenticación vía JWT inyectada con un interceptador persistida en el local storage ofuscado. Estructurada con dos módulos, de cliente y administrador, con carga diferida (lazy) según necesidad",
   presup_name: "Presupuestaré",
-  presupBack_docs: " Docs de la API",
   presup_desc:
     "Una herramienta para registrar egresos e ingresos, permite gestionarlos con categorías y asignar un presupuesto para cada una.",
   users_name: " API Reqres.in",
