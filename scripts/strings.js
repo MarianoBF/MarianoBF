@@ -1,5 +1,9 @@
 const ES_STRINGS = {
-  main_title: "Algunos proyectos desarrollados",
+  main_title: "Software web Mariano F.",
+  // main_description: "Una demo de proyectos, fullstack y frontend",
+  contact_info: "Información de contacto:",
+  name: "Nombre",
+  email: "Email: (borrar los [] al usar la dirección)",
   full_stack_title: "Proyectos Fullstack",
   front_end_title: "Proyectos Frontend",
   lang_switch: "Click here to switch to English",
@@ -36,7 +40,11 @@ const ES_STRINGS = {
 };
 
 const EN_STRINGS = {
-  main_title: "A few sample projects",
+  main_title: "Web Software Mariano F.",
+  // main_description: "A demo of my fullstack and frontend projects",
+  contact_info: "Contact details:",
+  name: "Name",
+  email: "Email: (delete [] to use the address)",
   full_stack_title: "Fullstack Projects",
   front_end_title: "Frontend Projects",
   lang_switch: "Haz clic aquí para cambiar a español",
