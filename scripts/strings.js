@@ -69,7 +69,6 @@ const EN_STRINGS = {
   pedidos_name: "Pedidos",
   pedidos_desc:
     "A CRUD API for orders, users and products, with JWT authentication injected with an interceptor persisted (obfuscated) in local storage. Divided into two lazy loaded modules (admin & client)",
-  pedidosBack_docs: " API Docs",
   presup_name: "Presupuestaré",
   presup_desc:
     "A tool for registering incomes & expenses, with categories and a budget for each category.",
