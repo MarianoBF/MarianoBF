@@ -1,6 +1,5 @@
 const ES_STRINGS = {
   main_title: "Fullstack dev Mariano F.",
-  // main_description: "Una demo de proyectos, fullstack y frontend",
   contact_info: "Información de contacto:",
   name: "Nombre",
   email: "Email: (borrar los [] al usar la dirección)",
@@ -41,7 +40,6 @@ const ES_STRINGS = {
 
 const EN_STRINGS = {
   main_title: "Dev fullstack Mariano F.",
-  // main_description: "A demo of my fullstack and frontend projects",
   contact_info: "Contact details:",
   name: "Name",
   email: "Email: (delete [] to use the address)",
@@ -73,7 +71,6 @@ const EN_STRINGS = {
     "A CRUD API for orders, users and products, with JWT authentication injected with an interceptor persisted (obfuscated) in local storage. Divided into two lazy loaded modules (admin & client)",
   pedidosBack_docs: " API Docs",
   presup_name: "Presupuestaré",
-  presupBack_docs: " API Docs",
   presup_desc:
     "A tool for registering incomes & expenses, with categories and a budget for each category.",
   users_name: "Reqres.in API",
