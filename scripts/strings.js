@@ -1,5 +1,5 @@
 const ES_STRINGS = {
-  main_title: "Software web Mariano F.",
+  main_title: "Fullstack dev Mariano F.",
   // main_description: "Una demo de proyectos, fullstack y frontend",
   contact_info: "Información de contacto:",
   name: "Nombre",
@@ -40,7 +40,7 @@ const ES_STRINGS = {
 };
 
 const EN_STRINGS = {
-  main_title: "Web Software Mariano F.",
+  main_title: "Dev fullstack Mariano F.",
   // main_description: "A demo of my fullstack and frontend projects",
   contact_info: "Contact details:",
   name: "Name",
