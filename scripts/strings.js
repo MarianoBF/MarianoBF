@@ -1,5 +1,8 @@
 const ES_STRINGS = {
   main_title: "Fullstack dev Mariano F.",
+  welcome: "Bienvenido a mi portfolio. Aquí puedes encontrar mis proyectos e información de contacto.",
+  welcome_1: "Soy un desarrollador fullstack acostumbrado a trabajar con React, Angular, Nest, Node y algunas otras tecnologías que he ido sumando en el camino. Siempre feliz de trabajar con un acertijo, aunque la respuesta requiera explorar.",
+  welcome_2: "Estos son algunos de los proyectos que he hecho, algunos un poco ásperos, pero estoy orgulloso de todos ellos, especialmente algunos de los más viejos que, por supuesto, abordaría de manera diferente ahora.",
   contact_info: "Información de contacto:",
   name: "Nombre",
   email: "Email: (borrar los [] al usar la dirección)",
@@ -40,6 +43,9 @@ const ES_STRINGS = {
 
 const EN_STRINGS = {
   main_title: "Dev fullstack Mariano F.",
+  welcome: "Welcome to my portfolio. Here you can find my projects and contact information.",
+  welcome_1: "I am a fullstack developer who is used to working with React, Angular, Nest, Node and a few other technologies I've picked along the way. Always happy to work with a puzzle, even if the answer requires digging.",
+  welcome_2: "These are a few projects I've done, some a bit rough around the edges, but I'm proud of them all, especially some of the earlier ones which of course I would approach differently now.",
   contact_info: "Contact details:",
   name: "Name",
   email: "Email: (delete [] to use the address)",

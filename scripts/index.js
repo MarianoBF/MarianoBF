@@ -7,7 +7,7 @@ window.onload = setInitialLanguage;
 let current_lang;
 
 function setInitialLanguage() {
-  current_lang = "EN";
+  current_lang = "ES";
   languageSwitcher();
 }
 
